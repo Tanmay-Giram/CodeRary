@@ -2,7 +2,7 @@
 
 Reqiremenths - python , Django 3.0 or above (SQlite is also recommended)
 first Clone the repository or download zip
-run the commands below =>
+run the commands below -
 pip install -r requirements.txt
 python manage.py makemigrations
 python manage.py migrate
